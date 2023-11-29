@@ -1,5 +1,5 @@
 {
+  "/recover/page": "app/recover/page.js",
   "/page": "app/page.js",
-  "/login/page": "app/login/page.js",
-  "/registro/page": "app/registro/page.js"
+  "/login/page": "app/login/page.js"
 }

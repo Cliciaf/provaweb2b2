@@ -180,7 +180,7 @@
 /******/ 	
 /******/ 	/* webpack/runtime/getFullHash */
 /******/ 	!function() {
-/******/ 		__webpack_require__.h = function() { return "d0cfb83b2f827d81"; }
+/******/ 		__webpack_require__.h = function() { return "a8cc7f6cfc98fa40"; }
 /******/ 	}();
 /******/ 	
 /******/ 	/* webpack/runtime/global */
@@ -786,7 +786,7 @@
 /******/ 		};
 /******/ 		
 /******/ 		__webpack_require__.f.miniCss = function(chunkId, promises) {
-/******/ 			var cssChunks = {"_app-client_src_app_styles_module_css":1,"_app-client_src_app_globals_css":1,"_app-client_src_app_login_styles_module_css":1,"_app-client_src_app_registro_styles_module_css":1};
+/******/ 			var cssChunks = {"_app-client_src_app_styles_module_css":1,"_app-client_src_app_globals_css":1,"_app-client_src_app_registro_styles_module_css":1,"_app-client_src_app_login_styles_module_css":1,"_app-client_src_app_recover_styles_module_css":1};
 /******/ 			if(installedCssChunks[chunkId]) promises.push(installedCssChunks[chunkId]);
 /******/ 			else if(installedCssChunks[chunkId] !== 0 && cssChunks[chunkId]) {
 /******/ 				promises.push(installedCssChunks[chunkId] = loadStylesheet(chunkId).then(function() {

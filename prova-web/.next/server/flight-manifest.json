@@ -107,11 +107,14 @@
   },
   "__edge_ssr_module_mapping__": {},
   "__entry_css_files__": {
-    "/workspaces/provaweb2b2/prova-web/src/app/registro/page": [
-      "static/css/_app-client_src_app_registro_styles_module_css.css"
+    "/workspaces/provaweb2b2/prova-web/src/app/recover/page": [
+      "static/css/_app-client_src_app_recover_styles_module_css.css"
     ],
     "/workspaces/provaweb2b2/prova-web/src/app/login/page": [
       "static/css/_app-client_src_app_login_styles_module_css.css"
+    ],
+    "/workspaces/provaweb2b2/prova-web/src/app/registro/page": [
+      "static/css/_app-client_src_app_registro_styles_module_css.css"
     ],
     "/workspaces/provaweb2b2/prova-web/src/app/layout": [
       "static/css/_app-client_src_app_globals_css.css"
@@ -328,12 +331,12 @@
       "async": false
     }
   },
-  "/workspaces/provaweb2b2/prova-web/src/app/registro/styles.module.css": {
+  "/workspaces/provaweb2b2/prova-web/src/app/recover/styles.module.css": {
     "default": {
       "id": "null",
       "name": "default",
       "chunks": [
-        "static/css/_app-client_src_app_registro_styles_module_css.css"
+        "static/css/_app-client_src_app_recover_styles_module_css.css"
       ]
     }
   },
@@ -343,6 +346,15 @@
       "name": "default",
       "chunks": [
         "static/css/_app-client_src_app_login_styles_module_css.css"
+      ]
+    }
+  },
+  "/workspaces/provaweb2b2/prova-web/src/app/registro/styles.module.css": {
+    "default": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/_app-client_src_app_registro_styles_module_css.css"
       ]
     }
   },

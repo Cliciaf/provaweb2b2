@@ -1,0 +1,47 @@
+/* styles.module.css */
+
+.dashboardcontainer {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.dashboardheader {
+  background-color: rgb(91, 4, 94);
+  color: #fff;
+  padding: 40px;
+  text-align: center;
+}
+
+.dashboardcontent {
+  flex: 1;
+  padding: 20px;
+  text-align: center;
+  background-image: url("estudo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.dashboardfooter {
+  background-color: rgb(68, 0, 255);
+  color: #fff;
+  padding: 35px;
+  text-align: center;
+}
+
+.a {
+  color: #fff;
+  text-decoration: none;
+  font-size: large;
+  font-weight: 500;
+}
+
+.p {
+  font-size: large;
+  font-weight: 700;
+}
+
+.h1 {
+  font-size: xx-large;
+  font-weight: 800;
+}

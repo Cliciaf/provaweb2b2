@@ -10,15 +10,20 @@
       "static/chunks/main-app.js",
       "static/chunks/app/layout.js"
     ],
+    "/registro/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/registro/page.js"
+    ],
     "/login/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/login/page.js"
     ],
-    "/registro/page": [
+    "/recover/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/registro/page.js"
+      "static/chunks/app/recover/page.js"
     ]
   }
 }
